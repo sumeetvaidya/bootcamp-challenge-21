@@ -47,7 +47,9 @@ The program is compiled and deployed and run in Remix.
 <img width="297" alt="KaseiCoinDeployer_methods" src="https://user-images.githubusercontent.com/17937188/153775038-7d695e87-b611-4a4c-b8ab-f452a9cb9d12.png">
 
 
-### Mint into the account (1 Ether)
+### Minting (1 Ether)
+
+<img width="277" alt="addingminter_andminting" src="https://user-images.githubusercontent.com/17937188/153775625-bb7ba762-5195-4226-a17c-589e46944de1.png">
 
 <img width="1027" alt="Screen Shot 2022-02-13 at 3 40 59 PM" src="https://user-images.githubusercontent.com/17937188/153775066-1bdae8b7-4677-470b-ba39-7c732d1f6a7c.png">
 
@@ -59,30 +61,14 @@ The program is compiled and deployed and run in Remix.
 
 
 
+### Transfer
+
+<img width="318" alt="transfer_and_balance" src="https://user-images.githubusercontent.com/17937188/153775633-2261fadc-d1c8-48d5-8ebf-163a6a027354.png">
 
 
 
-
-### Deposit into the account (1000 Wei)
-
-
-
-
-### Contract Balance (2000 Wei)
-
-
-
-### Withdraw (200 Wei)
-
-### Contract Balance (1800 Wei)
-
-### Last To Withdraw
-
-
-
-### Last To Withdraw Amount
-
-
+### Additional Features
+There are numerous additional features offered by the project like crowdsale within a date/time range. The user is encouraged to try out additional actions.
 
 ## Contributors 
 <br/>

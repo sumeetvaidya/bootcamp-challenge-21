@@ -16,7 +16,7 @@ contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale,CappedCrowdsale,TimedC
     constructor(
         uint rate, // rate in TKNbits
         address payable wallet, // sale beneficiary
-        KaseiCoin token ,// the XP_Token itself that the XP_TokenSale will work with
+        KaseiCoin token ,// the KC_Token itself that the KC_TokenSale will work with
         uint goal ,//represents he amount of ether which you hope to raise
         uint open, //represent the opening time for the crowdsale
         uint close //represent the closing time for the crowdsale
